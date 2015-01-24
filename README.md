@@ -1,0 +1,2 @@
+# mysite
+just for django
